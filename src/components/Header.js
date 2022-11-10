@@ -5,7 +5,7 @@ export default function Header() {
   return (
     <Nav>
       <h1>Moredle</h1>
-      <h2>&#8681; Nm of letters</h2>
+      <h2>&#8681; Number of letters</h2>
     </Nav>
   );
 }

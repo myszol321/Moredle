@@ -1,6 +1,8 @@
 import styled from 'styled-components';
 
 export const Nav = styled.nav`
+  @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -10,7 +12,7 @@ export const Nav = styled.nav`
 
   & > h1 {
     font-family: 'Fredoka One', cursive;
-    font-size: 50px;
+    font-size: 40px;
   }
 
   & > h2 {
